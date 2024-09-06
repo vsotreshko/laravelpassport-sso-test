@@ -106,6 +106,7 @@ return [
             'twitter' => false,
             'facebook' => false,
             'apple' => false,
+            'laravelpassport' => true,
         ],
         'self_registration' => [
             // define if users can self register into craftable pro interface
